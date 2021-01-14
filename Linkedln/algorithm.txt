@@ -1,0 +1,5 @@
+0(1)       Constant time      Looking up a single element in an array.
+0(log n)   Logarithmic        Finding an item in a sorted array with a binary search.
+0(n)       Linear time        Searching an unsorted array for a specific value.
+0(n log n) Log-linear         Complex Sorting algorithms like heap sort and merge sort.
+0(n^2)     Quadratic          Simple sorting algorithms such as bubble sort, selection sort and insertion sort
